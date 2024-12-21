@@ -9,7 +9,7 @@ smtp_server = 'smtp.gmail.com'
 smtp_port = '587'
 
 mail_user_name = 'mukeshkethe009@gmail.com'
-mail_password = 'xztk rqts jove vchp'
+mail_password = 'snbm kmhv cwds xxrs'
 
 from_email = 'mukeshkethe009@gmail.com'
 to_email = input('Enter Email-ID to send OTP: ')
